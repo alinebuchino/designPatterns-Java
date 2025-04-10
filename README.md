@@ -1,12 +1,33 @@
 # Design Patterns 
 
----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
-# Padrões Criacionais:
-- Desenvolvimento de padrões como: Factory, Abstract Factory, Singleton, Builder e Prototype
+🔨 *Padrões Criacionais*:
 
-# Padrões Estruturais:
-- Desenvolvimento de padrões como: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Mediator e Proxy
+🏭 Factory
+🧪 Abstract Factory
+👤 Singleton
+🧱 Builder
+🧬 PrototypeFactory
 
-# Padrões Comportamentais:
-- Desenvolvimento de padrões como: Chain of Resposibility, Command, Iterator, Memento, Observer, State, Strategy e Template Method
+🏗️ *Padrões Estruturais*: 
+
+🔌 Adapter
+🌉 Bridge
+🌿 Composite
+🎨 Decorator
+🏛️ Facade
+🪶 Flyweight
+🕹️ Mediator
+🛡️ Proxy
+
+🧠 *Padrões Comportamentais*:
+
+🔗 Chain of Responsibility
+🗳️ Command
+🔁 Iterator
+🧠 Memento
+👁️ Observer
+🎭 State
+🧭 Strategy
+📋 Template Method
