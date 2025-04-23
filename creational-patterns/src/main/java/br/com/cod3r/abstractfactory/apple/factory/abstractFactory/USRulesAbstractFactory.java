@@ -7,14 +7,12 @@ import br.com.cod3r.abstractfactory.apple.model.packing.USPacking;
 
 public class USRulesAbstractFactory implements CountryRulesAbstractFactory {
 
-    @Override
-    public Certificate getCertificates() {
-        return new USCertificate();
-    }
+	public Certificate getCertificates() {
+		return new USCertificate();
+	}
 
-    @Override
-    public Packing getPacking() {
-        return new USPacking();
-    }
+	public Packing getPacking() {
+		return new USPacking();
+	}
 
 }

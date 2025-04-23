@@ -1,10 +1,12 @@
 package br.com.cod3r.prototype.animation.model;
 
-public class Person {
+public class Person implements Cloneable {
 	String line1;
 	String line2;
 	String line3;
 	String line4;
+	
+	
 	
 	public Person(String line1, String line2, String line3, String line4) {
 		this.line1 = line1;
@@ -33,5 +35,10 @@ public class Person {
 		line2 = " " + line2;
 		line3 = " " + line3;
 		line4 = "_" + line4;
+	}
+
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+		return super.clone();
 	}
 }
