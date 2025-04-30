@@ -16,7 +16,6 @@
 - 🎨 Decorator
 - 🏛️ Facade
 - 🪶 Flyweight
-- 🕹️ Mediator
 - 🛡️ Proxy
 
 🧠 *Padrões Comportamentais*:
@@ -25,6 +24,7 @@
 - 🗳️ Command
 - 🔁 Iterator
 - 🧠 Memento
+- 🕹️ Mediator
 - 👁️ Observer
 - 🎭 State
 - 🧭 Strategy
